@@ -30,11 +30,11 @@
 			Calculo Novo
 		</div>
 		<div class='item2'>
-			Calculadora de IMC
+			Calculo Novo 3
 		</div>
 
 		<div class='item2'>
-			Calculadora de IMC
+			Calculo Novo 4
 		</div>
 		<div class='item2'>
 			Calculadora de IMC

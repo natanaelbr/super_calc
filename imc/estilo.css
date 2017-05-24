@@ -1,0 +1,86 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: grey;
+	font-family: tahoma;
+}
+
+h1{
+	font-size: 16px;
+}
+p{
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+}
+
+hr {
+	height: 10px;
+	border: none;
+}
+.quadro {
+	margin: 0 auto;
+	width: 300px;
+	background: white;
+	border: none;
+	padding: 10px;
+}
+
+button{
+	background: orange;
+	color: white;
+	border: none;
+	padding: 10px;
+	margin-top: 20px;
+}
+button:hover {
+	background: red;
+}
+
+label {
+	width: 50px;
+	display: inline-block;
+	margin-top: 5px;
+}
+.r{
+	margin: 0 auto;
+	width: 300px;
+	border: none;
+	padding: 10px;
+	text-align: center;	
+}
+.r1{
+	background: yellow;
+	color: red;
+}
+.r2{
+	background: green;
+	color: white;
+}
+.r3{
+	background: orange;
+	color: white;
+}
+.r4{
+	background: red;
+	color: white;
+}
+.r5{
+	background: darkred;
+	color: white;
+}
+.r6{
+	background: black;
+	color: red;
+}
+.r7{
+	background: orange;
+	color: white;
+}
+
+
+
+
