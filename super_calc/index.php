@@ -27,7 +27,7 @@
 			Calculo de Medidas Especiais
 		</div>
 		<div class='item2'>
-			Calculadora de IMC
+			Calculo Novo
 		</div>
 		<div class='item2'>
 			Calculadora de IMC
