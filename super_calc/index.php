@@ -24,7 +24,7 @@
 			<a href="distancia.php">Distância</a>
 		</div>
 		<div class='item2'>
-			Calculadora de IMC
+			Calculo de Medidas Especiais
 		</div>
 		<div class='item2'>
 			Calculadora de IMC
