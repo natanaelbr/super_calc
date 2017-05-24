@@ -1,0 +1,117 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #C0C0C0;
+	font-family: tahoma;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: #F0E68C;
+	text-decoration: none;
+}
+
+.topo {
+	width: 800px;
+	background: #FF4500;
+	margin: 0 auto;
+	margin-top:30px;
+	padding: 10px;
+	border-radius: 6px;	
+}
+
+.topo h1 {
+	color: white;
+	font-size: 30px;
+	font-style: italic;
+	display: inline-block;
+	margin-right: 20px;
+}
+.corpo {
+	width: 800px;
+	background: white;
+	margin: 0 auto;
+	margin-top:30px;
+	padding: 10px;
+	border-radius: 6px;
+}
+
+.resultado {
+	width: 800px;
+	background: #191970;
+	color: white;
+	margin: 0 auto;
+	margin-top:30px;
+	padding: 10px;
+	border-radius: 6px;
+	font-size: 24px;
+}
+
+.titulo {
+	font-size: 28px;
+	border-bottom: 2px solid #FF4500;
+	color: #191970;
+}
+.item {
+	width: 140px;
+	height: 40px;
+	margin: 20px;
+	padding: 10px;
+	border-radius: 6px;
+	background: #FF4500;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	float: left;
+}
+.item img {
+	width: 90px;
+}
+
+.item2 {
+	width: 140px;
+	height: 40px;
+	margin: 20px;
+	padding: 10px;
+	border-radius: 6px;
+	background: #191970;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	float: left;
+}
+.item2 img {
+	width: 90px;
+}
+.limpar {
+	clear: both;
+}
+
+.input {
+	font-size: 16px;
+	padding: 10px;
+	width: 250px; !important
+}
+.botao {
+	background: #FF4500;
+	font-weight: bold;
+	color: white;
+	border: none;
+	padding: 10px;
+}
+.botao:hover {
+	background: #191970;
+	font-weight: bold;
+	color: white;
+	border: none;
+	padding: 10px;
+}
+span {
+	color: yellow;
+}
